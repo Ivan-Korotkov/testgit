@@ -3,6 +3,5 @@
 using namespace std;
 int main()
 {
-    cout << "Hello World!\n";
-	cout << "next izmen";
+	cout << "vrode norm vse";
 }
